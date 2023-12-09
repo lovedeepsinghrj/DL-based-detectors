@@ -1,2 +1,3 @@
 # DL-based-detectors
 This repository includes a few object detection related projects in MATLAB and Python. The projects range from simple CNN based detectors and more advanced RCNN/YOLO based projects. For end to end understanding of object detection, a detector was developed in Python from scratch.
+Disclaimer: These projects were developed in 2021 for my radar object detection research. The main focus was to develop a simple detection system to apply on radar outputs(3D maps with range vs velocity and SNR RGB map) to locate target of interest in clutter filled region and beat previous research paper ROC results.
